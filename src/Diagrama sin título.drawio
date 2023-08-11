@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-11T03:02:34.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="8YAJwnLHw_e6ePS6lzXi" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-11T03:03:04.617Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="vCFqIHi9wD2rlPyx_aSg" version="21.6.8" type="github">
   <diagram name="Página-1" id="QSpxqb6vJAyZnymsFnRN">
     <mxGraphModel dx="880" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#a3d2c6" math="0" shadow="0">
       <root>
@@ -18,9 +18,9 @@
           </mxCell>
         </UserObject>
         <mxCell id="uqRQsHcqRSU1Agh_CppQ-24" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;new Persona()&amp;nbsp;&lt;b&gt;:Type&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;nombre = valué 1&lt;br&gt;edad = valué 2&lt;br&gt;identificación = valué 3&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="420" y="320" width="200" height="120" as="geometry" />
+          <mxGeometry x="360" y="500" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="uqRQsHcqRSU1Agh_CppQ-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.995;exitY=0.171;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="uqRQsHcqRSU1Agh_CppQ-12" target="uqRQsHcqRSU1Agh_CppQ-24">
+        <mxCell id="uqRQsHcqRSU1Agh_CppQ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uqRQsHcqRSU1Agh_CppQ-12" target="uqRQsHcqRSU1Agh_CppQ-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
